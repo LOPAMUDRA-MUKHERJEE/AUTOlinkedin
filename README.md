@@ -1,4 +1,5 @@
-🚀 AUTOlinkedin – The First of Its Kind
+## 🚀 AUTOlinkedin – The First of Its Kind
+
 **Effortless LinkedIn Posts for Your Projects. Just Upload — We’ll Do the Rest.
 The first-of-its-kind app that turns your project folder into a professional LinkedIn post.**
 
